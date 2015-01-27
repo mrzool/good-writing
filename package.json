@@ -27,5 +27,8 @@
     "gulp-minify-css": "^0.4.3",
     "gulp-rename": "^1.2.0",
     "gulp-uncss": "^1.0.0"
+  },
+  "dependencies": {
+    "basscss-utilities": "0.0.21"
   }
 }
