@@ -1,0 +1,8 @@
+name: "Rules of Good Writing"
+description: "From The Sense of Style by Steven Pinker"
+author: "mrzool"
+url: "http://rulesofgoodwriting.com"
+# url: "http://localhost:3000"
+future: true
+exclude: [README.md, Rakefile, node_modules]
+permalink: pretty
