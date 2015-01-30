@@ -15,33 +15,24 @@
 
 */
 .btn, .btn:link, .btn:visited {
-  /* border-radius: 0.3em; */
   border-style: solid;
   border-width: 1px;
   color: #111;
   display: inline-block;
-  font-family: avenir, helvetica, arial, sans-serif;
-  letter-spacing: 0.15em;
+  letter-spacing: 0.09em;
   margin-bottom: 0.5em;
   padding: 1em 0.75em;
   text-decoration: none;
-  text-transform: uppercase;
-  /* -webkit-transition: color 0.4s, background-color 0.4s, border 0.4s; */
-  /* transition: color 0.4s, background-color 0.4s, border 0.4s; */
 }
 
 .btn:hover {
   color: #AAAAAA;
   border: 1px solid #AAAAAA;
-  /* -webkit-transition: background-color 0.3s, color 0.3s, border 0.3s; */
-  /* transition: background-color 0.3s, color 0.3s, border 0.3s; */
 }
 
 .btn:active {
   color: #AAAAAA;
   border: 1px solid #0074D9;
-  /* -webkit-transition: background-color 0.3s, color 0.3s, border 0.3s; */
-  /* transition: background-color 0.3s, color 0.3s, border 0.3s; */
 }
 
 /* 
@@ -155,17 +146,17 @@
 
 .btn--gray-dark:link, .btn--gray-dark:visited {
   background-color: #555;
-  color: #eee; }
+  color: #ede0ce; }
 
 .btn--gray-dark:hover {
   background-color: #333;
   border-color: #333;
-  color: #eee; }
+  color: #ede0ce; }
 
 .btn--gray-dark:active {
   background-color: #777;
   border-color: #777;
-  color: #eee; }
+  color: #ede0ce; }
 
 /* BLUES */
 .btn--blue:link, .btn--blue:visited {
