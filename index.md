@@ -2,36 +2,39 @@
 layout: default
 ---
 
-### 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### 1. Be an avid reader
 
-Lorem ipsum dolor sit amet, *consectetur adipiscing elit*. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. 
+The first and most important rule. Reading the works of great writers gets you to absorb "a vast inventory of words, idioms, constructions, tropes and rethorical tricks" and helps you develop a sense of how good writing works.
 
-### 2. Integer nec odio.
+### 2. Use vivid imagery
 
-*Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos*. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. 
-
-> This is just a test blockquote, to test how a blockquote appears in the webpage.  
-> ---<cite>Some dude</cite>
-
-### 3. Praesent libero.
-
-Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. 
-
-### 4. Sed cursus *ante* dapibus diam.
-
-Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. 
-
-### 5. Sed nisi.
-
-Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante. Nulla quam. Aenean laoreet. 
-
-### 6. Nulla quis sem at nibh elementum imperdiet.
-
-Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan porttitor, cursus quis, aliquet eget, justo. Sed pretium blandit orci. Ut eu diam at pede suscipit sodales. Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. 
-
-### 7. Duis sagittis ipsum. 
-
-Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. 
+Abstractions are often tedious and laborious for the human brain to handle. To make your writing pleasant and get your point across, use physical, vivid and concrete images instead. Spice up your writing by using unusual words occasionally. Use [phonaestetics](http://en.wikipedia.org/wiki/Phonaesthetics) and be aware of its power. If you need to write about an abstract idea, make it alive with metaphors, analogies, or, even better, actual instances of its manifestations.
 
 
+### 3. Offer a window onto the world
 
+Imagine your reader. Talk to her in a confident voice. Present her with an interesting truth about the world, engage her in a conversation, assume equality between you and her, trust her intelligence, and rely on her cooperation in drawing her own conclusions. This ideal is called *classic style*, and it's the best antidote to academic, bureaucratic, corporate and legal writing.
+
+### 4. Avoid self-conscious writing
+
+This can take a variety of forms:
+
+- **Metadiscourse**:
+- **Signposting**:
+- **Personalizing block of text**:
+- **Professional narcissism**:
+- **Inward-looking style**:
+- **Shudder quotes**:
+- **Compulsive hedging**:
+
+All of this is tedious. Don't do that.
+
+### 5. More cool rules
+
+- Avoid clichés at all costs. Stale idioms get the reader to shut down her own visual imagery.
+- Metaconcepts: words like *level*, *perspective*, *approach*, *assumption*, *concept*, *condition*, *context*, *framework*, *issue*, *model*, *process*, *range*, *role*, *strategy*, *tendency*, *variable* are all abstract 
+
+##### *Read more*
+
+- George Orwell warns us about the dehumanizing effects of abstractions in his essay [*Politics and the English Language*](http://www.orwell.ru/library/essays/politics/english/e_polit/), freely available online.
+- Learn more about the classic style from the proposers of the idea, Francis-Noël Thomas and Mark Turner, in their book [*Clear and Simple as the Truth*](http://classicprose.com/).

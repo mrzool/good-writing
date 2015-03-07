@@ -26,6 +26,6 @@ gulp.task('styles', function() {
 
 gulp.task('default', ['browser-sync'], function() {
   gulp.watch("css/*.css", ['styles']);
-  gulp.watch("./_site/*.html", ['styles', 'bs-reload']);
-  gulp.watch("./_site/css/*.css", ['bs-reload']);
+  gulp.watch("./_site/*.html", ['bs-reload']);
+  // gulp.watch("./_site/css#<{(|.css", ['bs-reload']);
 });
