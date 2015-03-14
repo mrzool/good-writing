@@ -26,6 +26,10 @@ This can take a variety of forms:
 - **Inward-looking style**:
 - **Shudder quotes**:
 - **Compulsive hedging**:
+- **Excessive use of intensifiers**:
+- **Cliches**:
+- **Nominalization**: turning verbs into nouns and adjectives
+- **unnecessary passives**: 
 
 All of this is tedious. Don't do that.
 
