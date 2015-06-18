@@ -37,6 +37,19 @@ All of this is tedious. Don't do that.
 
 - Avoid clichés at all costs. Stale idioms get the reader to shut down her own visual imagery.
 - Metaconcepts: words like *level*, *perspective*, *approach*, *assumption*, *concept*, *condition*, *context*, *framework*, *issue*, *model*, *process*, *range*, *role*, *strategy*, *tendency*, *variable* are all abstract 
+- Avoid long chunks of monotonous looking text. Break down your content visually
+into paragraphs.
+- Be clear about your **topic** (what you're talking about) and your **point**
+(what are you saying). This should be done as early as possible.
+- Beware of synonimomania. Vary wording only when strictly necessary (i.e. if
+repetition would be tedious or confusing). Never vary wordings when comparing
+things.
+- Be aware that your web of knowledge is different from the one of your readers.
+Mention given before new.
+
+### 6. When in doubt, connect (but do it once)
+Be aware of the coherence relations between sentences and how they can be expressed. Use the right amount of connectives to reconstruct your coherence relations. Use too few connectives and you might confuse the readers. Use too many, and you may sound like stating the obvious and patronizing. This is tricky, as the right amount of connectives depends also from your readers' experience. This is why it's important to share drafts with your readers and look for feedback. Connectives are incredibly important stuff, and are pretty difficult to nail.
+
 
 ##### *Read more*
 
