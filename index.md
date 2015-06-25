@@ -49,6 +49,11 @@ All of this is tedious. Don't do that.
 
 - Use the right amount of connectives (examples: ) to reconstruct your coherence relations. Be aware of the coherence relations between sentences and how they can be expressed. Use too few connectives and you might confuse the readers. Use too many, and you may sound like stating the obvious and patronizing. The right amount of connectives depends also from your readers' experience. This is why it's important to share drafts with your readers and look for feedback. Connectives are incredibly important stuff, and are pretty difficult to nail.
 
+### 7. Telling right from wrong
+
+- Consult usage guides or dictionaries with usage notes
+- Read a lot to internalize correct usage
+
 ##### *Read more*
 
 - George Orwell warns us about the dehumanizing effects of abstractions in his essay [*Politics and the English Language*](http://www.orwell.ru/library/essays/politics/english/e_polit/), freely available online.
